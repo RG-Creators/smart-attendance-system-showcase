@@ -1,4 +1,4 @@
-# Changelog — Smart Attendance System Multi-Tenant SaaS
+# Changelog â€” Smart Attendance System Multi-Tenant SaaS
 
 All notable changes to this project will be documented in this file.
 
