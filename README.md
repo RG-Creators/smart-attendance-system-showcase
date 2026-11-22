@@ -1,4 +1,4 @@
-# Smart Attendance System SaaS � Multi-Tenant Workforce & Academic Attendance Platform
+# Smart Attendance System SaaS — Multi-Tenant Workforce & Academic Attendance Platform
 
 [![PHP Version](https://img.shields.io/badge/PHP-8.2%2B-777bb4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
 [![Architecture](https://img.shields.io/badge/Architecture-Multi--Tenant%20SaaS-0052CC?style=for-the-badge)](https://github.com/RG-Creators)
@@ -9,7 +9,7 @@
 
 ---
 
-## ?? System Architecture & Multi-Tenant Model
+## 🏗️ System Architecture & Multi-Tenant Model
 
 The Smart Attendance System is engineered with an isolated multi-tenant architecture designed to handle dual business verticals simultaneously without structural collisions:
 
@@ -43,7 +43,7 @@ The Smart Attendance System is engineered with an isolated multi-tenant architec
 
 ---
 
-## ? Flagship Enterprise Capabilities
+## ⚡ Flagship Enterprise Capabilities
 
 ### 1. Dual-Track Tenant Segmentation
 - **Academic Institutions (Schools, Colleges, Universities)**: Structured hierarchical mapping from Classes to Sections, Class-Subject associations, and period-by-period attendance with teacher substitution support.
@@ -62,7 +62,7 @@ The Smart Attendance System is engineered with an isolated multi-tenant architec
 
 ---
 
-## ?? Tech Stack
+## 🛠️ Tech Stack
 
 - **Backend Platform**: Core PHP 8.2+ (Modular Domain Model, PDO Prepared Statements, Session Protection)
 - **Frontend Layer**: Responsive Glassmorphism Design System, CSS3 Grid, Bootstrap, FontAwesome 6
@@ -71,7 +71,7 @@ The Smart Attendance System is engineered with an isolated multi-tenant architec
 
 ---
 
-## ?? Proprietary Code Notice
+## 🔒 Proprietary Code Notice
 The complete source code, proprietary algorithms, and deployment automation for this platform are privately maintained. For commercial licensing, enterprise white-labeling, or architectural inquiries, please contact:
 - **Developer**: RG
 - **Email**: [rgcreatorsofficial@gmail.com](mailto:rgcreatorsofficial@gmail.com)
